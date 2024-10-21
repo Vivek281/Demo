@@ -188,6 +188,10 @@ span{
     margin-top: 15px;
 }
 
+.box:hover{
+    cursor:pointer;
+}
+
 .box-img{
     height: 300px;
     background-size: cover;
